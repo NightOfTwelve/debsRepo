@@ -1,0 +1,16 @@
+Package: com.yourcompany.appsearch
+Version: 0.0.1-34+debug
+Architecture: iphoneos-arm
+Maintainer: Kts
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: debs/com.yourcompany.appsearch_0.0.1-34+debug_iphoneos-arm.deb
+Size: 30778
+MD5sum: 178135479e2fd9b52bcb48f57ef72974
+SHA1: a5bef3ba645eaa654e2a8084e327acf6e4b161c9
+SHA256: 8d42b7de143a1039a5be990cec6ea0a8da4805d51990ae20766ef23dbf5072a8
+Section: Tweaks
+Description: app Store wechat top
+Author: Kts
+Name: AppSearch
+
